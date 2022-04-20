@@ -1,4 +1,4 @@
-## Zaixin Song's Profile Page
+# Homepage  |  Dr. Zaixin Song
 
 <div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
 
@@ -6,7 +6,7 @@
 
 # More About Me, Please See
 
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
+| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Activity](https://songzaixin.github.io/cv-activity/) | [Team](https://songzaixin.github.io/cv-team/) |
 
 ---
 
@@ -80,6 +80,22 @@
 
 
 ## Industry Projects
+
+### 01/2022-Present: 	Shenzhen Tiemeizhong Technology Co., Ltd, Shenzhen, China, Principal Participant
+* Project Title: Development of Linear Actuator Motor (Project Code: TMZ-M-20220101) 
+* Abstract: The company's self-researched linear motor project, currently proposed to develop flat-plate linear motors, U-shaped ironless linear motors, rod-shaped linear motors, etc.; To develop a number of motor product series. 
+
+### 10/2021-Present: 	Shenzhen Tiemeizhong Technology Co., Ltd, Shenzhen, China, Principal Participant
+* Project Title: Development of Axial-Flux Fan Motor (Project Code: JX-MD-20221001) 
+* Abstract: To supply the integrated brushless DC motors as axial-flux fan for a company in Jiaxing, Zhejiang. 
+
+### 11/2020-06/2021: 	Shenzhen Tiemeizhong Technology Co., Ltd, Shenzhen, China, Project Coordinator
+* Project Title: Development of Integrated Motor Drives (Project Code: TMZ-M-1101) 
+* Abstract: To develop self-researched high-integration permanent magnet synchronous motors for the corporation, which encompass the motor body, feedback, drive, and control; To develop a number of motor product series. 
+
+### 07/2020-01/2021: 	Shenzhen Tiemeizhong Technology Co., Ltd, Shenzhen, China, Project Coordinator
+* Project Title: Development of High Performance Motor (Project Code: ZS-M-0701) 
+* Abstract: To develop a customized brushless motor and driver for a corporation in Zhongshan. 
 
 ### 05/2017-06/2018: 	Xi'an Aerospace Precision Electrical and Mechanical Research Institute, China, Participant
 
